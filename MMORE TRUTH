@@ -1,0 +1,13 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Commits for matters-arising-dossier</title>
+  <link href="https://github.com/Laughter79/matters-arising-dossier/commits/main.atom" rel="self"/>
+  <updated>2025-07-01T00:00:00Z</updated>
+  <entry>
+    <title>First Commit</title>
+    <link href="https://github.com/Laughter79/matters-arising-dossier/commit/abc123" />
+    <updated>2025-07-01T00:00:00Z</updated>
+    <id>tag:github.com,2008:Commit/abc123</id>
+    <author><name>Haley Slaughter</name></author>
+    <content type="html">Initial upload of the personal dossier</content>
+  </entry>
+</feed>
